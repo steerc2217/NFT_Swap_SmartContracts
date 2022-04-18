@@ -1,0 +1,6 @@
+{
+  "testTimeout": 1000000,
+  "transform": {
+    "^.+\\.(js|jsx|ts|tsx)$": "@swc/jest"
+  }
+}
