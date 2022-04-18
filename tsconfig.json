@@ -1,7 +1,0 @@
-{
-  "extends": "@tsconfig/node16/tsconfig.json",
-  "compilerOptions": {
-    "noUnusedLocals": true, /* Report errors on unused locals. */
-    "noUnusedParameters": true /* Report errors on unused parameters. */
-  }
-}
